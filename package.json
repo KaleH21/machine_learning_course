@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@remotion/google-fonts": "^4.0.541",
+    "@remotion/transitions": "^4.0.541"
+  }
+}

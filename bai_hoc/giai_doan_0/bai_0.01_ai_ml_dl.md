@@ -86,6 +86,17 @@ MACHINE LEARNING
 Hình dung như búp bê Nga lồng nhau:
 
 ```
+
+
+
+
+
+
+
+
+
+
+
 ┌───────────────────────────────────────────────┐
 │ AI (Trí tuệ nhân tạo)                         │
 │   ví dụ: luật if-else chơi cờ, tìm đường      │

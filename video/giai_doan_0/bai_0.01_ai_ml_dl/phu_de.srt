@@ -1,0 +1,575 @@
+1
+00:00:00,400 --> 00:00:04,874
+Sáng nay, có thể bạn đã dùng AI vài lần mà không để ý.
+
+2
+00:00:04,874 --> 00:00:07,691
+Điện thoại mở khóa bằng khuôn mặt.
+
+3
+00:00:07,691 --> 00:00:09,597
+Hộp thư tự gom thư rác.
+
+4
+00:00:09,597 --> 00:00:12,083
+Bản đồ chỉ đường tránh kẹt xe.
+
+5
+00:00:12,083 --> 00:00:17,054
+Vậy AI, Machine Learning và Deep Learning khác nhau thế nào?
+
+6
+00:00:17,054 --> 00:00:20,368
+Mười phút tới, ta sẽ trả lời câu hỏi đó.
+
+7
+00:00:21,467 --> 00:00:26,567
+Đây là anh Nam, lập trình viên ở một công ty thương mại điện tử.
+
+8
+00:00:26,567 --> 00:00:27,683
+Sếp giao việc:
+
+9
+00:00:27,683 --> 00:00:29,117
+lọc email lừa đảo.
+
+10
+00:00:29,117 --> 00:00:31,747
+Ngày đầu tiên, anh viết một luật:
+
+11
+00:00:31,747 --> 00:00:35,094
+nếu email chứa "trúng thưởng" thì là spam.
+
+12
+00:00:35,094 --> 00:00:35,812
+Chạy tốt.
+
+13
+00:00:35,812 --> 00:00:39,637
+Nhưng đến ngày thứ ba, kẻ lừa đảo đổi cách viết:
+
+14
+00:00:39,637 --> 00:00:43,383
+"trúng thuởng" sai dấu, chữ bị chấm ngắt quãng,
+
+15
+00:00:43,383 --> 00:00:46,411
+hoặc đổi hẳn sang "nhận quà miễn phí".
+
+16
+00:00:46,411 --> 00:00:48,563
+Luật cũ không bắt được nữa.
+
+17
+00:00:49,667 --> 00:00:51,266
+Anh Nam thêm luật mới.
+
+18
+00:00:51,266 --> 00:00:54,320
+Ngày thứ ba mươi, anh đã có năm trăm luật.
+
+19
+00:00:54,320 --> 00:00:56,720
+Các luật bắt đầu chồng chéo nhau,
+
+20
+00:00:56,720 --> 00:01:01,082
+và một email của chính sếp có chữ "thưởng Tết" cũng bị chặn.
+
+21
+00:01:01,082 --> 00:01:02,973
+Rồi một đồng nghiệp gợi ý:
+
+22
+00:01:02,973 --> 00:01:08,572
+sao không đưa cho máy mười nghìn email đã được đánh dấu spam hay bình thường,
+
+23
+00:01:08,572 --> 00:01:10,753
+rồi để máy tự tìm ra quy luật?
+
+24
+00:01:10,753 --> 00:01:14,171
+Ý tưởng đó có tên là Machine Learning, học máy.
+
+25
+00:01:15,267 --> 00:01:19,428
+Hãy nghĩ đến việc dạy một đứa trẻ nhận ra con mèo.
+
+26
+00:01:19,428 --> 00:01:20,593
+Cách thứ nhất:
+
+27
+00:01:20,593 --> 00:01:21,342
+đưa luật.
+
+28
+00:01:21,342 --> 00:01:25,254
+Mèo có bốn chân, có ria, tai nhọn, kêu meo meo.
+
+29
+00:01:25,254 --> 00:01:30,663
+Đứa trẻ thuộc luật, nhưng gặp một con mèo bị cụt tai thì bối rối.
+
+30
+00:01:30,663 --> 00:01:31,745
+Cách thứ hai:
+
+31
+00:01:31,745 --> 00:01:37,155
+cho bé xem thật nhiều ảnh mèo và chó, nói đây là mèo, đây là chó.
+
+32
+00:01:37,155 --> 00:01:41,649
+Bé tự rút ra cảm nhận, và gặp mèo cụt tai vẫn nhận ra.
+
+33
+00:01:41,649 --> 00:01:44,811
+Lập trình truyền thống giống cách một.
+
+34
+00:01:44,811 --> 00:01:47,475
+Machine Learning giống cách hai.
+
+35
+00:01:48,567 --> 00:01:51,357
+Đây là điểm quan trọng nhất của bài.
+
+36
+00:01:51,357 --> 00:01:57,326
+Trong lập trình truyền thống, ta đưa vào dữ liệu và luật, máy cho ra kết quả.
+
+37
+00:01:57,326 --> 00:02:01,900
+Trong Machine Learning, ta đưa vào dữ liệu và kết quả đúng,
+
+38
+00:02:01,900 --> 00:02:03,683
+còn máy tự tìm ra luật.
+
+39
+00:02:03,683 --> 00:02:06,551
+Luật do máy học được ấy có tên riêng:
+
+40
+00:02:06,551 --> 00:02:07,171
+mô hình.
+
+41
+00:02:07,171 --> 00:02:10,815
+Sau khi có mô hình, ta dùng nó cho dữ liệu mới.
+
+42
+00:02:11,900 --> 00:02:14,178
+Bắt đầu từ khái niệm rộng nhất:
+
+43
+00:02:14,178 --> 00:02:17,558
+AI, Artificial Intelligence, trí tuệ nhân tạo.
+
+44
+00:02:17,558 --> 00:02:23,290
+Đó là mọi kỹ thuật giúp máy tính làm được việc mà ta thường nghĩ cần trí thông
+
+45
+00:02:23,290 --> 00:02:24,686
+minh của con người.
+
+46
+00:02:24,686 --> 00:02:28,433
+Tìm đường nhanh nhất, chơi cờ vua, trả lời câu hỏi.
+
+47
+00:02:28,433 --> 00:02:28,874
+Lưu ý:
+
+48
+00:02:28,874 --> 00:02:34,091
+một chương trình cờ vua viết toàn bằng luật if else vẫn được gọi là AI,
+
+49
+00:02:34,091 --> 00:02:35,708
+dù nó không học gì cả.
+
+50
+00:02:36,800 --> 00:02:38,677
+Bên trong AI có một nhánh:
+
+51
+00:02:38,677 --> 00:02:40,555
+Machine Learning, học máy.
+
+52
+00:02:40,555 --> 00:02:45,898
+Ở đây, máy tự rút ra quy luật từ dữ liệu thay vì được lập trình từng luật.
+
+53
+00:02:45,898 --> 00:02:50,592
+Ví dụ, ngân hàng dự đoán một khách hàng có trả nợ đúng hạn không,
+
+54
+00:02:50,592 --> 00:02:53,552
+dựa trên lịch sử của hàng nghìn khách cũ.
+
+55
+00:02:54,667 --> 00:02:58,511
+Bên trong Machine Learning lại có một nhánh nhỏ hơn:
+
+56
+00:02:58,511 --> 00:03:00,212
+Deep Learning, học sâu.
+
+57
+00:03:00,212 --> 00:03:06,126
+Deep Learning dùng mạng nơ-ron nhiều lớp để tự học những đặc điểm phức tạp từ dữ
+
+58
+00:03:06,126 --> 00:03:08,788
+liệu thô như ảnh, âm thanh, văn bản.
+
+59
+00:03:08,788 --> 00:03:13,593
+Face ID, camera đọc biển số xe và ChatGPT đều dùng Deep Learning.
+
+60
+00:03:13,593 --> 00:03:16,699
+Mạng nơ-ron sẽ được học kỹ ở giai đoạn ba.
+
+61
+00:03:17,800 --> 00:03:21,873
+Ghép lại, ta có ba vòng tròn lồng nhau như búp bê Nga.
+
+62
+00:03:21,873 --> 00:03:27,078
+AI ở ngoài cùng, Machine Learning ở giữa, Deep Learning ở trong cùng.
+
+63
+00:03:27,078 --> 00:03:28,285
+Nên nhớ một câu:
+
+64
+00:03:28,285 --> 00:03:33,866
+mọi Deep Learning đều là Machine Learning, mọi Machine Learning đều là AI,
+
+65
+00:03:33,866 --> 00:03:36,280
+nhưng chiều ngược lại thì không.
+
+66
+00:03:37,367 --> 00:03:42,232
+Vậy khi nào dùng Machine Learning cổ điển, khi nào dùng Deep Learning?
+
+67
+00:03:42,232 --> 00:03:46,333
+Với dữ liệu dạng bảng như giá nhà hay thông tin khách hàng,
+
+68
+00:03:46,333 --> 00:03:50,782
+chỉ cần vài trăm đến vài chục nghìn dòng, máy tính thường là đủ,
+
+69
+00:03:50,782 --> 00:03:52,520
+và kết quả dễ giải thích.
+
+70
+00:03:52,520 --> 00:03:56,829
+Với ảnh, âm thanh, văn bản dài, Deep Learning thường mạnh hơn,
+
+71
+00:03:56,829 --> 00:04:02,043
+nhưng cần nhiều dữ liệu hơn, thường cần card đồ họa, và khó giải thích hơn,
+
+72
+00:04:02,043 --> 00:04:03,294
+giống một hộp đen.
+
+73
+00:04:03,294 --> 00:04:03,850
+Mẹo nhớ:
+
+74
+00:04:03,850 --> 00:04:06,839
+dữ liệu dạng bảng thì thử ML cổ điển trước.
+
+75
+00:04:07,933 --> 00:04:10,029
+Máy có ba kiểu học chính.
+
+76
+00:04:10,029 --> 00:04:14,557
+Kiểu đầu tiên là Supervised Learning, học có giám sát.
+
+77
+00:04:14,557 --> 00:04:20,929
+Máy học từ dữ liệu đã có đáp án, đáp án này gọi là nhãn, tiếng Anh là label.
+
+78
+00:04:20,929 --> 00:04:25,037
+Giống học sinh làm bài tập có đáp án ở cuối sách.
+
+79
+00:04:25,037 --> 00:04:27,384
+Học có giám sát có hai dạng.
+
+80
+00:04:27,384 --> 00:04:33,169
+Hồi quy, regression, đoán một con số, ví dụ căn nhà giá bao nhiêu tỷ.
+
+81
+00:04:33,169 --> 00:04:39,541
+Phân loại, classification, đoán một nhóm, ví dụ email này là spam hay không.
+
+82
+00:04:40,633 --> 00:04:45,038
+Kiểu thứ hai là Unsupervised Learning, học không giám sát.
+
+83
+00:04:45,038 --> 00:04:47,469
+Lần này dữ liệu không có đáp án.
+
+84
+00:04:47,469 --> 00:04:52,102
+Ví dụ, siêu thị có dữ liệu mua hàng của năm mươi nghìn khách.
+
+85
+00:04:52,102 --> 00:04:56,887
+Máy tự gom những khách có thói quen giống nhau thành từng nhóm.
+
+86
+00:04:56,887 --> 00:04:59,697
+Không ai nói trước có những nhóm nào.
+
+87
+00:04:59,697 --> 00:05:05,089
+Sau đó con người mới nhìn vào và đặt tên, như "nhóm hay mua đồ ăn vặt".
+
+88
+00:05:06,200 --> 00:05:10,363
+Kiểu thứ ba là Reinforcement Learning, học tăng cường.
+
+89
+00:05:10,363 --> 00:05:15,683
+Máy học bằng cách thử, sai, rồi nhận thưởng hoặc phạt, giống dạy chó:
+
+90
+00:05:15,683 --> 00:05:17,456
+làm đúng thì được bánh.
+
+91
+00:05:17,456 --> 00:05:20,771
+AI chơi game và robot tập đi dùng cách này.
+
+92
+00:05:20,771 --> 00:05:26,168
+Khóa học không đi sâu vào kiểu học này, nhưng bạn cần biết nó tồn tại.
+
+93
+00:05:27,267 --> 00:05:27,896
+Tóm lại:
+
+94
+00:05:27,896 --> 00:05:33,006
+có giám sát thì có đáp án, và trả lời "cái này là gì, bao nhiêu".
+
+95
+00:05:33,006 --> 00:05:38,902
+Không giám sát thì không có đáp án, và trả lời "dữ liệu có những nhóm nào".
+
+96
+00:05:38,902 --> 00:05:44,091
+Tăng cường chỉ có thưởng phạt, và trả lời "nên làm hành động nào".
+
+97
+00:05:45,200 --> 00:05:47,714
+Đây là bản đồ khóa học của bạn.
+
+98
+00:05:47,714 --> 00:05:53,067
+Nền tảng chung là Python, rồi Machine Learning, rồi Deep Learning.
+
+99
+00:05:53,067 --> 00:05:55,257
+Từ đó tách ra các lĩnh vực.
+
+100
+00:05:55,257 --> 00:06:00,205
+Computer Vision, thị giác máy tính, dạy máy nhìn và hiểu ảnh,
+
+101
+00:06:00,205 --> 00:06:01,746
+như đọc biển số xe.
+
+102
+00:06:01,746 --> 00:06:07,342
+NLP, xử lý ngôn ngữ tự nhiên, dạy máy đọc và viết ngôn ngữ của người,
+
+103
+00:06:07,342 --> 00:06:10,343
+như phân loại bình luận khen hay chê.
+
+104
+00:06:10,343 --> 00:06:15,859
+ChatGPT là AI tạo sinh cho văn bản, nằm ở chỗ Deep Learning gặp NLP.
+
+105
+00:06:15,859 --> 00:06:19,184
+Chặng cuối là đưa mô hình thành sản phẩm.
+
+106
+00:06:20,300 --> 00:06:24,273
+Giờ ta xem lại câu chuyện anh Nam bằng code Python.
+
+107
+00:06:24,273 --> 00:06:26,454
+Bạn chưa cần hiểu từng dòng.
+
+108
+00:06:26,454 --> 00:06:28,479
+Cách một là luật thủ công:
+
+109
+00:06:28,479 --> 00:06:32,218
+nếu email có chữ "trúng thưởng" thì trả về spam.
+
+110
+00:06:32,218 --> 00:06:34,477
+Cách hai là Machine Learning.
+
+111
+00:06:34,477 --> 00:06:39,384
+Ta chuẩn bị tám email, bốn email spam và bốn email bình thường,
+
+112
+00:06:39,384 --> 00:06:42,500
+mỗi email có nhãn đúng do con người dán.
+
+113
+00:06:43,600 --> 00:06:46,915
+Ba dòng tiếp theo là phần "cho máy học".
+
+114
+00:06:46,915 --> 00:06:50,064
+Bộ đếm từ biến mỗi email thành dãy số.
+
+115
+00:06:50,064 --> 00:06:54,622
+Hàm fit nghĩa là cho máy học, tự tìm quy luật từ ví dụ.
+
+116
+00:06:54,622 --> 00:06:59,760
+Giờ ta thử một email spam mới, không hề có chữ "trúng thưởng".
+
+117
+00:06:59,760 --> 00:07:03,158
+Luật thủ công cho là bình thường, bị lọt.
+
+118
+00:07:03,158 --> 00:07:07,053
+Còn mô hình Machine Learning bắt được, là spam.
+
+119
+00:07:07,053 --> 00:07:10,450
+Ta không hề viết luật "miễn phí là spam".
+
+120
+00:07:10,450 --> 00:07:17,080
+Máy tự nhận ra các từ như "miễn phí", "quà", "ngay" hay xuất hiện trong thư rác.
+
+121
+00:07:18,167 --> 00:07:20,239
+Có ba hiểu nhầm hay gặp.
+
+122
+00:07:20,239 --> 00:07:20,584
+Một:
+
+123
+00:07:20,584 --> 00:07:22,398
+AI thì phải biết học.
+
+124
+00:07:22,398 --> 00:07:26,542
+Sai, chương trình cờ vua dùng if else vẫn là AI.
+
+125
+00:07:26,542 --> 00:07:26,887
+Hai:
+
+126
+00:07:26,887 --> 00:07:29,910
+Deep Learning lúc nào cũng tốt hơn.
+
+127
+00:07:29,910 --> 00:07:34,486
+Sai, với dữ liệu dạng bảng, hãy thử ML cổ điển trước.
+
+128
+00:07:34,486 --> 00:07:34,745
+Ba:
+
+129
+00:07:34,745 --> 00:07:38,371
+mô hình vừa rồi đoán đúng nên đã tin được.
+
+130
+00:07:38,371 --> 00:07:43,552
+Cũng sai, tám email là quá ít, thực tế cần hàng nghìn email,
+
+131
+00:07:43,552 --> 00:07:48,215
+và bài hai chấm năm sẽ dạy cách đo độ tốt của mô hình.
+
+132
+00:07:49,300 --> 00:07:51,110
+Tóm lại bài hôm nay.
+
+133
+00:07:51,110 --> 00:07:54,911
+Machine Learning đảo chiều cách lập trình:
+
+134
+00:07:54,911 --> 00:07:58,440
+đưa dữ liệu và đáp án, máy tự tìm luật.
+
+135
+00:07:58,440 --> 00:08:00,521
+AI chứa ML, ML chứa DL.
+
+136
+00:08:00,521 --> 00:08:02,241
+Máy có ba kiểu học:
+
+137
+00:08:02,241 --> 00:08:06,041
+có giám sát, không giám sát và tăng cường.
+
+138
+00:08:06,041 --> 00:08:10,204
+Và dữ liệu dạng bảng thì thử ML cổ điển trước.
+
+139
+00:08:11,300 --> 00:08:12,780
+Một câu hỏi cho bạn:
+
+140
+00:08:12,780 --> 00:08:18,552
+dự đoán số ly trà sữa bán được vào ngày mai là bài toán hồi quy hay phân loại?
+
+141
+00:08:18,552 --> 00:08:21,068
+Hãy dừng lại vài giây và nghĩ thử.
+
+142
+00:08:26,068 --> 00:08:30,100
+Đáp án là hồi quy, vì ta đoán một con số.
+
+143
+00:08:31,200 --> 00:08:36,860
+Bài tiếp theo, ta sẽ cài đặt môi trường và chạy notebook đầu tiên.
+
+144
+00:08:36,860 --> 00:08:38,232
+Hẹn gặp lại bạn.

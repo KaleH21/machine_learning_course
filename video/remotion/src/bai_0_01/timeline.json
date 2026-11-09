@@ -1,0 +1,965 @@
+{
+ "fps": 30,
+ "totalFrames": 15568,
+ "scenes": [
+  {
+   "id": "s01",
+   "from": 0,
+   "dur": 632,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s01.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "from": 632,
+   "dur": 846,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s02.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "from": 1478,
+   "dur": 768,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s03.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "from": 2246,
+   "dur": 999,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s04.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "from": 3245,
+   "dur": 700,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s05.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "from": 3945,
+   "dur": 747,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s06.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "from": 4692,
+   "dur": 536,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s07.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "from": 5228,
+   "dur": 694,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s08.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "from": 5922,
+   "dur": 587,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s09.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "from": 6509,
+   "dur": 917,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s10.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "from": 7426,
+   "dur": 981,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s11.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "from": 8407,
+   "dur": 767,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s12.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "from": 9174,
+   "dur": 632,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s13.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "from": 9806,
+   "dur": 538,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s14.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s15",
+   "from": 10344,
+   "dur": 1053,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s15.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "from": 11397,
+   "dur": 699,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s16.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "from": 12096,
+   "dur": 1037,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s17.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "from": 13133,
+   "dur": 934,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s18.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s19",
+   "from": 14067,
+   "dur": 660,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s19.mp3",
+     "from": 12
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "from": 14727,
+   "dur": 597,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s20a.mp3",
+     "from": 12,
+     "endSec": 10.168000000000001
+    },
+    {
+     "src": "bai_0_01/audio/s20b.mp3",
+     "from": 455
+    }
+   ],
+   "countdownAt": 305
+  },
+  {
+   "id": "s21",
+   "from": 15324,
+   "dur": 244,
+   "audio": [
+    {
+     "src": "bai_0_01/audio/s21.mp3",
+     "from": 12
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.4,
+   "end": 4.874157676348548,
+   "text": "Sáng nay, có thể bạn đã dùng AI vài lần mà không để ý."
+  },
+  {
+   "start": 4.874157676348548,
+   "end": 7.6912199170124484,
+   "text": "Điện thoại mở khóa bằng khuôn mặt."
+  },
+  {
+   "start": 7.6912199170124484,
+   "end": 9.596879668049793,
+   "text": "Hộp thư tự gom thư rác."
+  },
+  {
+   "start": 9.596879668049793,
+   "end": 12.082522821576763,
+   "text": "Bản đồ chỉ đường tránh kẹt xe."
+  },
+  {
+   "start": 12.082522821576763,
+   "end": 17.053809128630704,
+   "text": "Vậy AI, Machine Learning và Deep Learning khác nhau thế nào?"
+  },
+  {
+   "start": 17.053809128630704,
+   "end": 20.368,
+   "text": "Mười phút tới, ta sẽ trả lời câu hỏi đó."
+  },
+  {
+   "start": 21.466666666666665,
+   "end": 26.56709019607843,
+   "text": "Đây là anh Nam, lập trình viên ở một công ty thương mại điện tử."
+  },
+  {
+   "start": 26.56709019607843,
+   "end": 27.68280784313725,
+   "text": "Sếp giao việc:"
+  },
+  {
+   "start": 27.68280784313725,
+   "end": 29.11730196078431,
+   "text": "lọc email lừa đảo."
+  },
+  {
+   "start": 29.11730196078431,
+   "end": 31.74720784313725,
+   "text": "Ngày đầu tiên, anh viết một luật:"
+  },
+  {
+   "start": 31.74720784313725,
+   "end": 35.09436078431372,
+   "text": "nếu email chứa \"trúng thưởng\" thì là spam."
+  },
+  {
+   "start": 35.09436078431372,
+   "end": 35.81160784313725,
+   "text": "Chạy tốt."
+  },
+  {
+   "start": 35.81160784313725,
+   "end": 39.63692549019608,
+   "text": "Nhưng đến ngày thứ ba, kẻ lừa đảo đổi cách viết:"
+  },
+  {
+   "start": 39.63692549019608,
+   "end": 43.38254901960784,
+   "text": "\"trúng thuởng\" sai dấu, chữ bị chấm ngắt quãng,"
+  },
+  {
+   "start": 43.38254901960784,
+   "end": 46.41092549019608,
+   "text": "hoặc đổi hẳn sang \"nhận quà miễn phí\"."
+  },
+  {
+   "start": 46.41092549019608,
+   "end": 48.562666666666665,
+   "text": "Luật cũ không bắt được nữa."
+  },
+  {
+   "start": 49.666666666666664,
+   "end": 51.26633432245301,
+   "text": "Anh Nam thêm luật mới."
+  },
+  {
+   "start": 51.26633432245301,
+   "end": 54.320245301681496,
+   "text": "Ngày thứ ba mươi, anh đã có năm trăm luật."
+  },
+  {
+   "start": 54.320245301681496,
+   "end": 56.71974678536102,
+   "text": "Các luật bắt đầu chồng chéo nhau,"
+  },
+  {
+   "start": 56.71974678536102,
+   "end": 61.08247675568742,
+   "text": "và một email của chính sếp có chữ \"thưởng Tết\" cũng bị chặn."
+  },
+  {
+   "start": 61.08247675568742,
+   "end": 62.972993076162204,
+   "text": "Rồi một đồng nghiệp gợi ý:"
+  },
+  {
+   "start": 62.972993076162204,
+   "end": 68.57182987141442,
+   "text": "sao không đưa cho máy mười nghìn email đã được đánh dấu spam hay bình thường,"
+  },
+  {
+   "start": 68.57182987141442,
+   "end": 70.75319485657762,
+   "text": "rồi để máy tự tìm ra quy luật?"
+  },
+  {
+   "start": 70.75319485657762,
+   "end": 74.17066666666665,
+   "text": "Ý tưởng đó có tên là Machine Learning, học máy."
+  },
+  {
+   "start": 75.26666666666668,
+   "end": 79.4279069767442,
+   "text": "Hãy nghĩ đến việc dạy một đứa trẻ nhận ra con mèo."
+  },
+  {
+   "start": 79.4279069767442,
+   "end": 80.5930542635659,
+   "text": "Cách thứ nhất:"
+  },
+  {
+   "start": 80.5930542635659,
+   "end": 81.34207751937986,
+   "text": "đưa luật."
+  },
+  {
+   "start": 81.34207751937986,
+   "end": 85.25364341085272,
+   "text": "Mèo có bốn chân, có ria, tai nhọn, kêu meo meo."
+  },
+  {
+   "start": 85.25364341085272,
+   "end": 90.6632558139535,
+   "text": "Đứa trẻ thuộc luật, nhưng gặp một con mèo bị cụt tai thì bối rối."
+  },
+  {
+   "start": 90.6632558139535,
+   "end": 91.74517829457365,
+   "text": "Cách thứ hai:"
+  },
+  {
+   "start": 91.74517829457365,
+   "end": 97.15479069767443,
+   "text": "cho bé xem thật nhiều ảnh mèo và chó, nói đây là mèo, đây là chó."
+  },
+  {
+   "start": 97.15479069767443,
+   "end": 101.64893023255814,
+   "text": "Bé tự rút ra cảm nhận, và gặp mèo cụt tai vẫn nhận ra."
+  },
+  {
+   "start": 101.64893023255814,
+   "end": 104.81147286821705,
+   "text": "Lập trình truyền thống giống cách một."
+  },
+  {
+   "start": 104.81147286821705,
+   "end": 107.47466666666666,
+   "text": "Machine Learning giống cách hai."
+  },
+  {
+   "start": 108.56666666666668,
+   "end": 111.35735656213706,
+   "text": "Đây là điểm quan trọng nhất của bài."
+  },
+  {
+   "start": 111.35735656213706,
+   "end": 117.32633217189316,
+   "text": "Trong lập trình truyền thống, ta đưa vào dữ liệu và luật, máy cho ra kết quả."
+  },
+  {
+   "start": 117.32633217189316,
+   "end": 121.89996283391406,
+   "text": "Trong Machine Learning, ta đưa vào dữ liệu và kết quả đúng,"
+  },
+  {
+   "start": 121.89996283391406,
+   "end": 123.68290360046458,
+   "text": "còn máy tự tìm ra luật."
+  },
+  {
+   "start": 123.68290360046458,
+   "end": 126.55111265969803,
+   "text": "Luật do máy học được ấy có tên riêng:"
+  },
+  {
+   "start": 126.55111265969803,
+   "end": 127.17126596980256,
+   "text": "mô hình."
+  },
+  {
+   "start": 127.17126596980256,
+   "end": 130.81466666666668,
+   "text": "Sau khi có mô hình, ta dùng nó cho dữ liệu mới."
+  },
+  {
+   "start": 131.9,
+   "end": 134.17792592592593,
+   "text": "Bắt đầu từ khái niệm rộng nhất:"
+  },
+  {
+   "start": 134.17792592592593,
+   "end": 137.55807407407409,
+   "text": "AI, Artificial Intelligence, trí tuệ nhân tạo."
+  },
+  {
+   "start": 137.55807407407409,
+   "end": 143.28962962962964,
+   "text": "Đó là mọi kỹ thuật giúp máy tính làm được việc mà ta thường nghĩ cần trí thông"
+  },
+  {
+   "start": 143.28962962962964,
+   "end": 144.6857777777778,
+   "text": "minh của con người."
+  },
+  {
+   "start": 144.6857777777778,
+   "end": 148.43333333333334,
+   "text": "Tìm đường nhanh nhất, chơi cờ vua, trả lời câu hỏi."
+  },
+  {
+   "start": 148.43333333333334,
+   "end": 148.87422222222222,
+   "text": "Lưu ý:"
+  },
+  {
+   "start": 148.87422222222222,
+   "end": 154.0914074074074,
+   "text": "một chương trình cờ vua viết toàn bằng luật if else vẫn được gọi là AI,"
+  },
+  {
+   "start": 154.0914074074074,
+   "end": 155.70799999999997,
+   "text": "dù nó không học gì cả."
+  },
+  {
+   "start": 156.8,
+   "end": 158.67737931034483,
+   "text": "Bên trong AI có một nhánh:"
+  },
+  {
+   "start": 158.67737931034483,
+   "end": 160.55475862068965,
+   "text": "Machine Learning, học máy."
+  },
+  {
+   "start": 160.55475862068965,
+   "end": 165.89806896551724,
+   "text": "Ở đây, máy tự rút ra quy luật từ dữ liệu thay vì được lập trình từng luật."
+  },
+  {
+   "start": 165.89806896551724,
+   "end": 170.5915172413793,
+   "text": "Ví dụ, ngân hàng dự đoán một khách hàng có trả nợ đúng hạn không,"
+  },
+  {
+   "start": 170.5915172413793,
+   "end": 173.552,
+   "text": "dựa trên lịch sử của hàng nghìn khách cũ."
+  },
+  {
+   "start": 174.66666666666669,
+   "end": 178.5111767337808,
+   "text": "Bên trong Machine Learning lại có một nhánh nhỏ hơn:"
+  },
+  {
+   "start": 178.5111767337808,
+   "end": 180.21163310961973,
+   "text": "Deep Learning, học sâu."
+  },
+  {
+   "start": 180.21163310961973,
+   "end": 186.12626398210296,
+   "text": "Deep Learning dùng mạng nơ-ron nhiều lớp để tự học những đặc điểm phức tạp từ dữ"
+  },
+  {
+   "start": 186.12626398210296,
+   "end": 188.7878478747204,
+   "text": "liệu thô như ảnh, âm thanh, văn bản."
+  },
+  {
+   "start": 188.7878478747204,
+   "end": 193.593485458613,
+   "text": "Face ID, camera đọc biển số xe và ChatGPT đều dùng Deep Learning."
+  },
+  {
+   "start": 193.593485458613,
+   "end": 196.6986666666667,
+   "text": "Mạng nơ-ron sẽ được học kỹ ở giai đoạn ba."
+  },
+  {
+   "start": 197.8,
+   "end": 201.87314285714288,
+   "text": "Ghép lại, ta có ba vòng tròn lồng nhau như búp bê Nga."
+  },
+  {
+   "start": 201.87314285714288,
+   "end": 207.0777142857143,
+   "text": "AI ở ngoài cùng, Machine Learning ở giữa, Deep Learning ở trong cùng."
+  },
+  {
+   "start": 207.0777142857143,
+   "end": 208.28457142857144,
+   "text": "Nên nhớ một câu:"
+  },
+  {
+   "start": 208.28457142857144,
+   "end": 213.86628571428574,
+   "text": "mọi Deep Learning đều là Machine Learning, mọi Machine Learning đều là AI,"
+  },
+  {
+   "start": 213.86628571428574,
+   "end": 216.28000000000003,
+   "text": "nhưng chiều ngược lại thì không."
+  },
+  {
+   "start": 217.36666666666667,
+   "end": 222.23232704402517,
+   "text": "Vậy khi nào dùng Machine Learning cổ điển, khi nào dùng Deep Learning?"
+  },
+  {
+   "start": 222.23232704402517,
+   "end": 226.33338364779877,
+   "text": "Với dữ liệu dạng bảng như giá nhà hay thông tin khách hàng,"
+  },
+  {
+   "start": 226.33338364779877,
+   "end": 230.78198742138366,
+   "text": "chỉ cần vài trăm đến vài chục nghìn dòng, máy tính thường là đủ,"
+  },
+  {
+   "start": 230.78198742138366,
+   "end": 232.51972327044027,
+   "text": "và kết quả dễ giải thích."
+  },
+  {
+   "start": 232.51972327044027,
+   "end": 236.82930817610065,
+   "text": "Với ảnh, âm thanh, văn bản dài, Deep Learning thường mạnh hơn,"
+  },
+  {
+   "start": 236.82930817610065,
+   "end": 242.04251572327047,
+   "text": "nhưng cần nhiều dữ liệu hơn, thường cần card đồ họa, và khó giải thích hơn,"
+  },
+  {
+   "start": 242.04251572327047,
+   "end": 243.29368553459122,
+   "text": "giống một hộp đen."
+  },
+  {
+   "start": 243.29368553459122,
+   "end": 243.84976100628933,
+   "text": "Mẹo nhớ:"
+  },
+  {
+   "start": 243.84976100628933,
+   "end": 246.83866666666668,
+   "text": "dữ liệu dạng bảng thì thử ML cổ điển trước."
+  },
+  {
+   "start": 247.93333333333334,
+   "end": 250.02935455349248,
+   "text": "Máy có ba kiểu học chính."
+  },
+  {
+   "start": 250.02935455349248,
+   "end": 254.55676038903624,
+   "text": "Kiểu đầu tiên là Supervised Learning, học có giám sát."
+  },
+  {
+   "start": 254.55676038903624,
+   "end": 260.92866489832005,
+   "text": "Máy học từ dữ liệu đã có đáp án, đáp án này gọi là nhãn, tiếng Anh là label."
+  },
+  {
+   "start": 260.92866489832005,
+   "end": 265.036866489832,
+   "text": "Giống học sinh làm bài tập có đáp án ở cuối sách."
+  },
+  {
+   "start": 265.036866489832,
+   "end": 267.38441025641026,
+   "text": "Học có giám sát có hai dạng."
+  },
+  {
+   "start": 267.38441025641026,
+   "end": 273.16942882404953,
+   "text": "Hồi quy, regression, đoán một con số, ví dụ căn nhà giá bao nhiêu tỷ."
+  },
+  {
+   "start": 273.16942882404953,
+   "end": 279.54133333333334,
+   "text": "Phân loại, classification, đoán một nhóm, ví dụ email này là spam hay không."
+  },
+  {
+   "start": 280.6333333333333,
+   "end": 285.0384513457557,
+   "text": "Kiểu thứ hai là Unsupervised Learning, học không giám sát."
+  },
+  {
+   "start": 285.0384513457557,
+   "end": 287.4688612836439,
+   "text": "Lần này dữ liệu không có đáp án."
+  },
+  {
+   "start": 287.4688612836439,
+   "end": 292.1018302277433,
+   "text": "Ví dụ, siêu thị có dữ liệu mua hàng của năm mươi nghìn khách."
+  },
+  {
+   "start": 292.1018302277433,
+   "end": 296.88669979296066,
+   "text": "Máy tự gom những khách có thói quen giống nhau thành từng nhóm."
+  },
+  {
+   "start": 296.88669979296066,
+   "end": 299.6968612836439,
+   "text": "Không ai nói trước có những nhóm nào."
+  },
+  {
+   "start": 299.6968612836439,
+   "end": 305.08933333333334,
+   "text": "Sau đó con người mới nhìn vào và đặt tên, như \"nhóm hay mua đồ ăn vặt\"."
+  },
+  {
+   "start": 306.2,
+   "end": 310.36321235521234,
+   "text": "Kiểu thứ ba là Reinforcement Learning, học tăng cường."
+  },
+  {
+   "start": 310.36321235521234,
+   "end": 315.6828725868726,
+   "text": "Máy học bằng cách thử, sai, rồi nhận thưởng hoặc phạt, giống dạy chó:"
+  },
+  {
+   "start": 315.6828725868726,
+   "end": 317.45609266409264,
+   "text": "làm đúng thì được bánh."
+  },
+  {
+   "start": 317.45609266409264,
+   "end": 320.7712432432432,
+   "text": "AI chơi game và robot tập đi dùng cách này."
+  },
+  {
+   "start": 320.7712432432432,
+   "end": 326.16799999999995,
+   "text": "Khóa học không đi sâu vào kiểu học này, nhưng bạn cần biết nó tồn tại."
+  },
+  {
+   "start": 327.26666666666665,
+   "end": 327.8956012461059,
+   "text": "Tóm lại:"
+  },
+  {
+   "start": 327.8956012461059,
+   "end": 333.00569470404986,
+   "text": "có giám sát thì có đáp án, và trả lời \"cái này là gì, bao nhiêu\"."
+  },
+  {
+   "start": 333.00569470404986,
+   "end": 338.90195638629285,
+   "text": "Không giám sát thì không có đáp án, và trả lời \"dữ liệu có những nhóm nào\"."
+  },
+  {
+   "start": 338.90195638629285,
+   "end": 344.09066666666666,
+   "text": "Tăng cường chỉ có thưởng phạt, và trả lời \"nên làm hành động nào\"."
+  },
+  {
+   "start": 345.2,
+   "end": 347.7143293556086,
+   "text": "Đây là bản đồ khóa học của bạn."
+  },
+  {
+   "start": 347.7143293556086,
+   "end": 353.06741766109786,
+   "text": "Nền tảng chung là Python, rồi Machine Learning, rồi Deep Learning."
+  },
+  {
+   "start": 353.06741766109786,
+   "end": 355.25731742243437,
+   "text": "Từ đó tách ra các lĩnh vực."
+  },
+  {
+   "start": 355.25731742243437,
+   "end": 360.20486873508355,
+   "text": "Computer Vision, thị giác máy tính, dạy máy nhìn và hiểu ảnh,"
+  },
+  {
+   "start": 360.20486873508355,
+   "end": 361.74590930787593,
+   "text": "như đọc biển số xe."
+  },
+  {
+   "start": 361.74590930787593,
+   "end": 367.34231980906924,
+   "text": "NLP, xử lý ngôn ngữ tự nhiên, dạy máy đọc và viết ngôn ngữ của người,"
+  },
+  {
+   "start": 367.34231980906924,
+   "end": 370.34329355608594,
+   "text": "như phân loại bình luận khen hay chê."
+  },
+  {
+   "start": 370.34329355608594,
+   "end": 375.85859665871124,
+   "text": "ChatGPT là AI tạo sinh cho văn bản, nằm ở chỗ Deep Learning gặp NLP."
+  },
+  {
+   "start": 375.85859665871124,
+   "end": 379.184,
+   "text": "Chặng cuối là đưa mô hình thành sản phẩm."
+  },
+  {
+   "start": 380.3,
+   "end": 384.27263157894737,
+   "text": "Giờ ta xem lại câu chuyện anh Nam bằng code Python."
+  },
+  {
+   "start": 384.27263157894737,
+   "end": 386.4536842105263,
+   "text": "Bạn chưa cần hiểu từng dòng."
+  },
+  {
+   "start": 386.4536842105263,
+   "end": 388.4789473684211,
+   "text": "Cách một là luật thủ công:"
+  },
+  {
+   "start": 388.4789473684211,
+   "end": 392.21789473684214,
+   "text": "nếu email có chữ \"trúng thưởng\" thì trả về spam."
+  },
+  {
+   "start": 392.21789473684214,
+   "end": 394.4768421052632,
+   "text": "Cách hai là Machine Learning."
+  },
+  {
+   "start": 394.4768421052632,
+   "end": 399.3842105263158,
+   "text": "Ta chuẩn bị tám email, bốn email spam và bốn email bình thường,"
+  },
+  {
+   "start": 399.3842105263158,
+   "end": 402.50000000000006,
+   "text": "mỗi email có nhãn đúng do con người dán."
+  },
+  {
+   "start": 403.6,
+   "end": 406.9148514851485,
+   "text": "Ba dòng tiếp theo là phần \"cho máy học\"."
+  },
+  {
+   "start": 406.9148514851485,
+   "end": 410.0639603960396,
+   "text": "Bộ đếm từ biến mỗi email thành dãy số."
+  },
+  {
+   "start": 410.0639603960396,
+   "end": 414.6218811881188,
+   "text": "Hàm fit nghĩa là cho máy học, tự tìm quy luật từ ví dụ."
+  },
+  {
+   "start": 414.6218811881188,
+   "end": 419.75990099009897,
+   "text": "Giờ ta thử một email spam mới, không hề có chữ \"trúng thưởng\"."
+  },
+  {
+   "start": 419.75990099009897,
+   "end": 423.1576237623762,
+   "text": "Luật thủ công cho là bình thường, bị lọt."
+  },
+  {
+   "start": 423.1576237623762,
+   "end": 427.0525742574257,
+   "text": "Còn mô hình Machine Learning bắt được, là spam."
+  },
+  {
+   "start": 427.0525742574257,
+   "end": 430.45029702970294,
+   "text": "Ta không hề viết luật \"miễn phí là spam\"."
+  },
+  {
+   "start": 430.45029702970294,
+   "end": 437.08,
+   "text": "Máy tự nhận ra các từ như \"miễn phí\", \"quà\", \"ngay\" hay xuất hiện trong thư rác."
+  },
+  {
+   "start": 438.1666666666667,
+   "end": 440.23894252873566,
+   "text": "Có ba hiểu nhầm hay gặp."
+  },
+  {
+   "start": 440.23894252873566,
+   "end": 440.5843218390805,
+   "text": "Một:"
+  },
+  {
+   "start": 440.5843218390805,
+   "end": 442.3975632183908,
+   "text": "AI thì phải biết học."
+  },
+  {
+   "start": 442.3975632183908,
+   "end": 446.54211494252877,
+   "text": "Sai, chương trình cờ vua dùng if else vẫn là AI."
+  },
+  {
+   "start": 446.54211494252877,
+   "end": 446.8874942528736,
+   "text": "Hai:"
+  },
+  {
+   "start": 446.8874942528736,
+   "end": 449.9095632183908,
+   "text": "Deep Learning lúc nào cũng tốt hơn."
+  },
+  {
+   "start": 449.9095632183908,
+   "end": 454.48583908045975,
+   "text": "Sai, với dữ liệu dạng bảng, hãy thử ML cổ điển trước."
+  },
+  {
+   "start": 454.48583908045975,
+   "end": 454.7448735632184,
+   "text": "Ba:"
+  },
+  {
+   "start": 454.7448735632184,
+   "end": 458.3713563218391,
+   "text": "mô hình vừa rồi đoán đúng nên đã tin được."
+  },
+  {
+   "start": 458.3713563218391,
+   "end": 463.55204597701146,
+   "text": "Cũng sai, tám email là quá ít, thực tế cần hàng nghìn email,"
+  },
+  {
+   "start": 463.55204597701146,
+   "end": 468.21466666666663,
+   "text": "và bài hai chấm năm sẽ dạy cách đo độ tốt của mô hình."
+  },
+  {
+   "start": 469.3,
+   "end": 471.10987012987016,
+   "text": "Tóm lại bài hôm nay."
+  },
+  {
+   "start": 471.10987012987016,
+   "end": 474.91059740259743,
+   "text": "Machine Learning đảo chiều cách lập trình:"
+  },
+  {
+   "start": 474.91059740259743,
+   "end": 478.4398441558442,
+   "text": "đưa dữ liệu và đáp án, máy tự tìm luật."
+  },
+  {
+   "start": 478.4398441558442,
+   "end": 480.52119480519485,
+   "text": "AI chứa ML, ML chứa DL."
+  },
+  {
+   "start": 480.52119480519485,
+   "end": 482.24057142857146,
+   "text": "Máy có ba kiểu học:"
+  },
+  {
+   "start": 482.24057142857146,
+   "end": 486.04129870129873,
+   "text": "có giám sát, không giám sát và tăng cường."
+  },
+  {
+   "start": 486.04129870129873,
+   "end": 490.204,
+   "text": "Và dữ liệu dạng bảng thì thử ML cổ điển trước."
+  },
+  {
+   "start": 491.3,
+   "end": 492.78000000000003,
+   "text": "Một câu hỏi cho bạn:"
+  },
+  {
+   "start": 492.78000000000003,
+   "end": 498.552,
+   "text": "dự đoán số ly trà sữa bán được vào ngày mai là bài toán hồi quy hay phân loại?"
+  },
+  {
+   "start": 498.552,
+   "end": 501.06800000000004,
+   "text": "Hãy dừng lại vài giây và nghĩ thử."
+  },
+  {
+   "start": 506.06800000000004,
+   "end": 510.1,
+   "text": "Đáp án là hồi quy, vì ta đoán một con số."
+  },
+  {
+   "start": 511.2,
+   "end": 516.8599024390244,
+   "text": "Bài tiếp theo, ta sẽ cài đặt môi trường và chạy notebook đầu tiên."
+  },
+  {
+   "start": 516.8599024390244,
+   "end": 518.232,
+   "text": "Hẹn gặp lại bạn."
+  }
+ ]
+}

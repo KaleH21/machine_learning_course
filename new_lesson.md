@@ -10,7 +10,7 @@ Viết bài học đầy đủ theo cấu trúc sau:
    - Từng khái niệm theo thứ tự từ dễ đến khó.
    - Hộp "📌 Thuật ngữ": Tên tiếng Anh | Nghĩa tiếng Việt | Giải thích 1 câu | Ví dụ.
    - Công thức (nếu có): giải thích từng ký hiệu, rồi tính tay với số nhỏ cụ thể.
-   - Hình minh họa (ASCII/bảng) hoặc code vẽ hình.
+   - Hình minh họa (ASCII/bảng), code vẽ hình hoặc ảnh trên mạng thực tế
 6. 💻 Code từng bước (Colab): chia nhỏ từng ô, có comment tiếng Việt, có kết quả mẫu. Bắt đầu bằng phiên bản tự viết từ đầu (nếu hợp lý), sau đó mới dùng thư viện.
 7. ⚠️ Lỗi thường gặp và hiểu lầm phổ biến (ít nhất 3), kèm cách nhận biết và sửa.
 8. 🌍 Ứng dụng trong thực tế: 2–3 ví dụ ở các ngành khác nhau.
